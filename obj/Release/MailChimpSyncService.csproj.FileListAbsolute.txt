@@ -1,0 +1,64 @@
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\MailChimpSyncService\MailChimpSyncService\bin\Release\MailChimpSync.exe.config
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\MailChimpSyncService\MailChimpSyncService\bin\Release\MailChimpSync.exe
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\MailChimpSyncService\MailChimpSyncService\bin\Release\MailChimpSync.pdb
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\MailChimpSyncService\MailChimpSyncService\bin\Release\Mandrill.dll
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\MailChimpSyncService\MailChimpSyncService\bin\Release\Newtonsoft.Json.dll
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\MailChimpSyncService\MailChimpSyncService\bin\Release\ServiceStack.Text.dll
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\MailChimpSyncService\MailChimpSyncService\bin\Release\Mandrill.xml
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\MailChimpSyncService\MailChimpSyncService\bin\Release\Newtonsoft.Json.xml
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\MailChimpSyncService\MailChimpSyncService\bin\Release\ServiceStack.Text.xml
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\MailChimpSyncService\MailChimpSyncService\obj\Release\MailChimpSyncService.ProjectInstaller.resources
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\MailChimpSyncService\MailChimpSyncService\obj\Release\MailChimpSyncService.csproj.GenerateResource.Cache
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\MailChimpSyncService\MailChimpSyncService\obj\Release\MailChimpSync.exe
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\MailChimpSyncService\MailChimpSyncService\obj\Release\MailChimpSync.pdb
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\NewAccountService\MailChimpSyncService\bin\Release\MailChimpNewAccountSync.exe.config
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\NewAccountService\MailChimpSyncService\bin\Release\MailChimpNewAccountSync.exe
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\NewAccountService\MailChimpSyncService\bin\Release\MailChimpNewAccountSync.pdb
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\NewAccountService\MailChimpSyncService\bin\Release\Mandrill.dll
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\NewAccountService\MailChimpSyncService\bin\Release\Newtonsoft.Json.dll
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\NewAccountService\MailChimpSyncService\bin\Release\ServiceStack.Text.dll
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\NewAccountService\MailChimpSyncService\bin\Release\Mandrill.xml
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\NewAccountService\MailChimpSyncService\bin\Release\Newtonsoft.Json.xml
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\NewAccountService\MailChimpSyncService\bin\Release\ServiceStack.Text.xml
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\NewAccountService\MailChimpSyncService\obj\Release\MailChimpSyncService.csprojResolveAssemblyReference.cache
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\NewAccountService\MailChimpSyncService\obj\Release\MailChimpSyncService.ProjectInstaller.resources
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\NewAccountService\MailChimpSyncService\obj\Release\MailChimpSyncService.csproj.GenerateResource.Cache
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\NewAccountService\MailChimpSyncService\obj\Release\MailChimpNewAccountSync.exe
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\NewAccountService\MailChimpSyncService\obj\Release\MailChimpNewAccountSync.pdb
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\TwilioService\MailChimpSyncService\bin\Release\TwilioSyncService.exe.config
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\TwilioService\MailChimpSyncService\bin\Release\TwilioSyncService.exe
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\TwilioService\MailChimpSyncService\bin\Release\TwilioSyncService.pdb
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\TwilioService\MailChimpSyncService\bin\Release\Mandrill.dll
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\TwilioService\MailChimpSyncService\bin\Release\Newtonsoft.Json.dll
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\TwilioService\MailChimpSyncService\bin\Release\RestSharp.dll
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\TwilioService\MailChimpSyncService\bin\Release\ServiceStack.Text.dll
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\TwilioService\MailChimpSyncService\bin\Release\Twilio.Api.dll
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\TwilioService\MailChimpSyncService\bin\Release\Mandrill.xml
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\TwilioService\MailChimpSyncService\bin\Release\Newtonsoft.Json.xml
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\TwilioService\MailChimpSyncService\bin\Release\RestSharp.xml
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\TwilioService\MailChimpSyncService\bin\Release\ServiceStack.Text.xml
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\TwilioService\MailChimpSyncService\bin\Release\Twilio.Api.pdb
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\TwilioService\MailChimpSyncService\bin\Release\Twilio.Api.xml
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\TwilioService\MailChimpSyncService\obj\Release\MailChimpSyncService.csprojResolveAssemblyReference.cache
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\TwilioService\MailChimpSyncService\obj\Release\MailChimpSyncService.ProjectInstaller.resources
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\TwilioService\MailChimpSyncService\obj\Release\MailChimpSyncService.csproj.GenerateResource.Cache
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\TwilioService\MailChimpSyncService\obj\Release\TwilioSyncService.exe
+D:\Users\apineda\Documents\Visual Studio 2015\Projects\TwilioService\MailChimpSyncService\obj\Release\TwilioSyncService.pdb
+F:\Jobs\TempJob\TwilioService\MailChimpSyncService\bin\Release\TwilioSyncService.exe.config
+F:\Jobs\TempJob\TwilioService\MailChimpSyncService\bin\Release\TwilioSyncService.exe
+F:\Jobs\TempJob\TwilioService\MailChimpSyncService\bin\Release\TwilioSyncService.pdb
+F:\Jobs\TempJob\TwilioService\MailChimpSyncService\bin\Release\Mandrill.dll
+F:\Jobs\TempJob\TwilioService\MailChimpSyncService\bin\Release\Newtonsoft.Json.dll
+F:\Jobs\TempJob\TwilioService\MailChimpSyncService\bin\Release\RestSharp.dll
+F:\Jobs\TempJob\TwilioService\MailChimpSyncService\bin\Release\ServiceStack.Text.dll
+F:\Jobs\TempJob\TwilioService\MailChimpSyncService\bin\Release\Twilio.Api.dll
+F:\Jobs\TempJob\TwilioService\MailChimpSyncService\bin\Release\Mandrill.xml
+F:\Jobs\TempJob\TwilioService\MailChimpSyncService\bin\Release\Newtonsoft.Json.xml
+F:\Jobs\TempJob\TwilioService\MailChimpSyncService\bin\Release\RestSharp.xml
+F:\Jobs\TempJob\TwilioService\MailChimpSyncService\bin\Release\ServiceStack.Text.xml
+F:\Jobs\TempJob\TwilioService\MailChimpSyncService\bin\Release\Twilio.Api.pdb
+F:\Jobs\TempJob\TwilioService\MailChimpSyncService\bin\Release\Twilio.Api.xml
+F:\Jobs\TempJob\TwilioService\MailChimpSyncService\obj\Release\MailChimpSyncService.ProjectInstaller.resources
+F:\Jobs\TempJob\TwilioService\MailChimpSyncService\obj\Release\MailChimpSyncService.csproj.GenerateResource.Cache
+F:\Jobs\TempJob\TwilioService\MailChimpSyncService\obj\Release\TwilioSyncService.exe
+F:\Jobs\TempJob\TwilioService\MailChimpSyncService\obj\Release\TwilioSyncService.pdb
